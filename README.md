@@ -1,5 +1,4 @@
-# Customer_Support_RAG
-# 📦 Customer Support RAG
+# Customer Support RAG
 
 A Retrieval-Augmented Generation (RAG) system for customer service chatbots, powered by a hybrid stack of open-source NLP tools and a high-quality support dataset.
 
